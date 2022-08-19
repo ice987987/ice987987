@@ -2,6 +2,10 @@
 
 ![stats](https://github-readme-stats.vercel.app/api?username=ice987987&show_icons=true&theme=swift)
 
+### Support
+[![Donate](https://img.shields.io/badge/donate-paypal-blue?style=flat)](https://paypal.me/ice987987)
+
+
 <!--
 **ice987987/ice987987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
