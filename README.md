@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a developer for the smart home platform [ioBroker](https://github.com/ioBroker).
+I develop adapters for the smart home platform [ioBroker](https://github.com/ioBroker).
 
 ![stats](https://github-readme-stats.vercel.app/api?username=ice987987&show_icons=true&theme=swift)
 
